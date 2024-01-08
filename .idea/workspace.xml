@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd2994d1-1847-4173-bb07-c5ebd4c9a065" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
@@ -70,7 +71,7 @@
     "Spring Boot.CardapioApplication.executor": "Run",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/marco/OneDrive/Área de Trabalho/Cursos/Java-React-FernandaKipper/cardapio/src/main/java/com/ma/cardapio",
-    "last_opened_file_path": "C:/Users/marco/OneDrive/Área de Trabalho/Cursos/Java-React-FernandaKipper/cardapio",
+    "last_opened_file_path": "C:/Users/marco/OneDrive/Área de Trabalho/Cursos/Java-React-FernandaKipper/cardapio/server",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -116,7 +117,8 @@
       <option name="presentableId" value="Default" />
       <updated>1704388894182</updated>
       <workItem from="1704388895224" duration="2100000" />
-      <workItem from="1704456598766" duration="5782000" />
+      <workItem from="1704456598766" duration="6414000" />
+      <workItem from="1704714441165" duration="81000" />
     </task>
     <servers />
   </component>
